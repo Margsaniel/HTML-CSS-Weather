@@ -1,4 +1,4 @@
 # HTML-CSS-Weather
 
-![snapshot of html](images/weather.png})
+![snapshot of html](images/weather.png)
 
